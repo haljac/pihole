@@ -38,8 +38,14 @@ ff02::3 ip6-allhosts
 # update process. For example, uncomment the following line to block
 # 'example.com':
 
-0.0.0.0 youtube.com
 0.0.0.0 zerohedge.com
 0.0.0.0 drudgereport.com
 0.0.0.0 ground.news
-
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+0.0.0.0 m.youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 s.ytimg.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 youtubei.googleapis.com
